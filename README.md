@@ -6,6 +6,18 @@ Requires at least: 3.0
 Tested up to: 3.8
 Stable tag: 3.8
 
+
+
+
+
+THIS PLUGIN IS CREATED BASED ON OFFICIAL QUICKBLOX'S WORDPRESS PLUGIN. 
+
+
+
+
+
+
+
 Use QB Group Chat Room (XMPP)! Be social!
 
 == Description ==
